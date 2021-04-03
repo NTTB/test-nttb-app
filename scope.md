@@ -1,11 +1,3 @@
----
-  - Doelgroep: 
-    - ondersteuners (primair) 
-    - testers (optioneel)
-  - Reason
-    - Wat gaan we wel/niet testen?
-    - Waarom testen we?
----
 # Scope
 
 ## Wat gaan we wel/niet testen?

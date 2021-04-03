@@ -64,11 +64,11 @@ De volgende tabel bevat welke rollen bewust moeten zijn van welke informatie.
 | [Privacy]                   | Ja            | Ja                 |
 
 <!-- Links -->
-[Scope]: ./scope
-[Voorbereiding]: ./voorbereiding
-[Algemene instructies]: ./instruct-all
-[Instructies ondersteuners]: ./instruct-staff
-[Tijdslijn]: ./tijdslijn
-[Testplan]: ./testplan
-[Test template]: ./test-template
-[Privacy]: ./privacy
+[Scope]: ./scope.md
+[Voorbereiding]: ./voorbereiding.md
+[Algemene instructies]: ./instruct-all.md
+[Instructies ondersteuners]: ./instruct-staff.md
+[Tijdslijn]: ./tijdslijn.md
+[Testplan]: ./testplan.md
+[Test template]: ./test-template.md
+[Privacy]: ./privacy.md
