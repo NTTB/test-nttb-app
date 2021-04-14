@@ -8,6 +8,7 @@
 - [ ] Uitnodiging sturen voor deelname als tester
 - [ ] Documenten aan ondersteuners sturen
 - [ ] Documenten aan testers sturen
+- [ ] NAS inrichten voor testen
 
 ## Achteraf
 
