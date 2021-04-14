@@ -20,3 +20,4 @@
 2. Heeft zekerheid dat er in Zoom breakout sessies gemaakt kan worden
 3. Weet wie de testers en ondersteuners zijn.
 4. Heeft de deelnemers alle communicatie vooraf opgestuurd.
+5. Heeft de ondersteuners ingelicht welke wedstrijdnummers ze hebben
