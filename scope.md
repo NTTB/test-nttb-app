@@ -12,6 +12,8 @@ De focus zal liggen op de juiste werking van de DWF (Digitaal Wedstrijd Formulie
 
 De volgende zaken worden NIET getest:
 
+MODULES: 
+
 - ledenpas-module
 - privacy-module
 - scoreboard-module
@@ -21,6 +23,9 @@ De volgende zaken worden NIET getest:
 - resultaten-module
 - Help (althans niet specifiek)
 
+Functies:
+- Invallen
+- andere team samenstelling dan 3 tegen 3
 
 ## Waarom testen we?
 
