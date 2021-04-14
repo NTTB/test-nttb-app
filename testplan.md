@@ -39,6 +39,8 @@ Instructies die ondersteuner aan testers geeft:
 
 ## Gericht testen
 
+> Bij gericht testen moeten alle game standen ingevuld worden, die instructie is wordt *niet* gegeven bij het ongericht testen.
+
 1. Ondersteuner kiest telkens een wedstrijd en loopt met ze de volgende scenario's door:
     1. De testers proberen de zo snel mogelijk een wedstrijd in te vullen incl. punten.
     2. De testers proberen conflicterende resultaten in te vullen
