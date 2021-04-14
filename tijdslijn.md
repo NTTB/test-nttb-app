@@ -4,7 +4,9 @@
 
 - [ ] Zoom account regelen met breakout sessies
 - [ ] Lijst opstellen van ondersteuners
-- [ ] Datum en tijdstip kiezen voor het testen
+- [X] Datum en tijdstip kiezen voor het testen
+  - Einde inschrijf datum: 11-05-2021
+  - Test tijdstip: 01-06-2021 19:45-21:15
 - [ ] Uitnodiging sturen voor deelname als tester
   - Wat we nodig hebben: Naam, bondsnummer, club, afdeling, telefoon en email (wordt alleen gebruikt voor het opzetten van contact en indeling, niet bij het testen zelf) 
   - Spelers moeten van dezelfde club zijn **of** geschikt als NPC
