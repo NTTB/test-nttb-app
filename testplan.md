@@ -6,7 +6,6 @@
 - **19:45~19:55** Introductie aan de hele groep
   - Introductie van ondersteuners
   - Korte samenvatting van het testplan
-  - Alle testers worden verzocht om uit te loggen uit de NTTB app.
 - **19:55** Alle aanwezigen worden in groepen opgedeeld.
 - **19:55~20:00** De ondersteuners controleren of iedereen akkoord gaat met de privacy
 - **20:00~20:10** Ongericht testen, testers vullen gezamelijk hun eerste wedstrijd in
