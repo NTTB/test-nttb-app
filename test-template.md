@@ -3,22 +3,22 @@
 ## Intro
 
 * Naam ondersteuner: `Naam en contact van ondersteuner`
-* Tester A
+* Tester 1 - Team 1
   * Naam: `Wouter Lindenhof`
   * Contact: `example@example.com`
-* Tester B
+* Tester 2 - Team 1
   * Naam: `Wouter Lindenhof`
   * Contact: `example@example.com`
-* Tester C
+* Tester 3 - Team 1
   * Naam: `Wouter Lindenhof`
   * Contact: `example@example.com`
-* Tester D
+* Tester 4 - Team 2
   * Naam: `Wouter Lindenhof`
   * Contact: `example@example.com`
-* Tester E
+* Tester 5 - Team 2
   * Naam: `Wouter Lindenhof`
   * Contact: `example@example.com`
-* Tester F
+* Tester 6 - Team 2
   * Naam: `Wouter Lindenhof`
   * Contact: `example@example.com`
 * Akkoord naam in groepsverslag: `A, B, C`
