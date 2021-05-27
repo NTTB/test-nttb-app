@@ -2,7 +2,7 @@
 
 ## Vooraf
 
-- [ ] Zoom account regelen met breakout sessies
+- [ ] Teams account regelen met breakout sessies
 - [ ] Lijst opstellen van ondersteuners
 - [X] Datum en tijdstip kiezen voor het testen
   - Einde inschrijf datum: 11-05-2021
