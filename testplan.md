@@ -2,7 +2,7 @@
 
 ## Tijd schema
 
-- **19:30~19:45** De leiding start de Zoom vergadering en mensen kunnen zich aanmelden
+- **19:30~19:45** De leiding start de Teams vergadering en mensen kunnen zich aanmelden
 - **19:45~19:55** Introductie aan de hele groep
   - Introductie van ondersteuners
   - Korte samenvatting van het testplan
