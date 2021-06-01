@@ -8,10 +8,8 @@
   - Korte samenvatting van het testplan
 - **19:55** Alle aanwezigen worden in groepen opgedeeld.
 - **19:55~20:00** De ondersteuners controleren of iedereen akkoord gaat met de privacy
-- **20:00~20:10** Ongericht testen, testers vullen gezamelijk hun eerste wedstrijd in
-- **20:10~20:30** Gericht testen, de testers beginnen aan een scenario.
-- **20:30~20:40** Stress testen
-  - Het exacte moment van stress testen begint om 20:33 en moet in elke groep minimaal 3 minuten duren.
+- **20:00~20:30** Scenario 1 t/m 5 doorlopen
+- **20:30~20:40** Scenario 6 stress testen doorlopen. De starttijd en indientijd wordt bepaald door de leiding.
 - **20:40~20:50** Laatste opmerkingen
 - **20:50~21:00** Alle losse groepen worden samengevoegd, testers worden bedankt voor hun inzet en mogen vertrekken
 - **21:00** Maximum eindtijd voor testers
