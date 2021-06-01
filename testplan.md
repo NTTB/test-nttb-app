@@ -19,12 +19,11 @@
   - Er wordt nogmaals verzocht om de namen van de personen die geen toestemming hebben gegeven uit het verslag te verwijderen.
 - **21:30** Maximum eindtijd voor ondersteuners.
 
-## Ongericht testen
+## Scenario 1: Ongericht testen
 
 Bij het ongericht testen is het de bedoeling dat de testers op eigen kracht een wedstrijd invullen.
 
-1. Spelers worden verzocht om in te loggen
-2. Spelers moeten gezamelijk een wedstrijd uitkiezen en die invullen
+1. Spelers moeten gezamelijk een wedstrijd uitkiezen en die invullen
    1. Wees duidelijk dat ze geen instructies of hulp krijgen
    2. Wees duidelijk dat hun doel is om de app kapot te krijgen
       1. "Vul een negatieve stand in als -14"
@@ -32,19 +31,22 @@ Bij het ongericht testen is het de bedoeling dat de testers op eigen kracht een 
       3. "Probeer continue de score van een andere aan te passen"
 3. Mocht ze iets kapot krijgen en de wedstrijd niet meer werken dan kiest de ondersteuner een andere wedstrijd en verzoekt die dat ze op zoek gaan naar anderen fouten.
 
-## Gericht testen
+## Scenario 2: Normaal gebruik
 
-> Bij gericht testen moeten alle game standen ingevuld worden, die instructie is wordt *niet* gegeven bij het ongericht testen.
+De testers proberen de zo snel mogelijk een wedstrijd in te vullen incl. punten.
 
-1. Ondersteuner kiest telkens een wedstrijd en loopt met ze de volgende scenario's door:
-    1. De testers proberen de zo snel mogelijk een wedstrijd in te vullen incl. punten.
-    2. De testers proberen conflicterende resultaten in te vullen
-    3. 1 tester gebruikt het scorebord voor de laatste Set. Zodra die 1 game ingevuld heeft beginnen de andere testers zo snel mogelijk alle sets in de wedstrijd in te vullen.
-    4. Testers doen alsof ze ruzie over een uitslag hebben.
-2. Aan het eind moeten alle wedstrijden ingevuld zijn.
+## Scenario 3: Fouten maken is oké
 
-## Stress testen
+De spelers moeten proberen om een fout scenario te maken (verkeerde opstelling, andere scores, et cetera
 
-De ondersteuner kiest de laatste beschikbare wedstrijd uit en voor 5 minuten lang moeten de testers zo snel mogelijk resultaten invullen. Wanneer ze bij de laatste set aankomen dan kiezen ze telkens willekeurig een set uit en passen daar de uitslag van aan.
+## Scenario 4: Scorebord
 
-Na 7 minuten sinds het testen begonnen had moeten zijn geeft de ondersteuner de opdracht om het wedstrijd formulier in te dienen.
+1 van de spelers gebruikt een scorebord. Een fysiek digitale scorebord of de virtuele in de app. De rest vult gewoon normaal de wedstrijden in.
+
+## Scenario 5: Ruzie
+
+De teams hebben ruzie over een wedstrijd en zijn het niet met elkaar eens
+
+# Scenario 6: Stress test
+
+Alle testers (ook die van een andere groepen) beginnen gelijktijdig met het invullen en proberen zo druk mogelijk te zijn met als doel om te kijken of de app normaal blijft gedragen. Op een tijdstip bepaald door de leiding moeten ze ook het formulier gelijktijdig indienen.
