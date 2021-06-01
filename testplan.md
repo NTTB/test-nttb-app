@@ -45,6 +45,6 @@ De spelers moeten proberen om een fout scenario te maken (verkeerde opstelling, 
 
 De teams hebben ruzie over een wedstrijd en zijn het niet met elkaar eens
 
-# Scenario 6: Stress test
+## Scenario 6: Stress test
 
 Alle testers (ook die van een andere groepen) beginnen gelijktijdig met het invullen en proberen zo druk mogelijk te zijn met als doel om te kijken of de app normaal blijft gedragen. Op een tijdstip bepaald door de leiding moeten ze ook het formulier gelijktijdig indienen.
